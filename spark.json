@@ -2,6 +2,6 @@
     "name": "RunningAverage",
     "version": "0.0.1",
     "author": "Lucas Choate <lucas@ingen-networks.com>",
-    "license": "CC Zero",
+    "license": "GNU GPL 2.0",
     "description": "RunningAverage keeps a running average of your sampled data without blowing up your memory"
 }
