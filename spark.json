@@ -1,0 +1,7 @@
+{
+    "name": "RunningAverage",
+    "version": "0.0.1",
+    "author": "Lucas Choate <lucas@ingen-networks.com>",
+    "license": "CC Zero",
+    "description": "RunningAverage keeps a running average of your sampled data without blowing up your memory"
+}
